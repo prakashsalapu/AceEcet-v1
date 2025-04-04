@@ -13,7 +13,7 @@ Welcome to the ECET Exam Preparation Quiz project! 🎓 This project is designed
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/ecet-quiz-prep.git
+    git clone https://github.com/prakashsalapu/EQuizz.git
     ```
 2. Navigate to the project directory:
     ```bash
