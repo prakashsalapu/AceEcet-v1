@@ -34,9 +34,7 @@ Welcome to the ECET Exam Preparation Quiz project! 🎓 This project is designed
 - Implement **scoreboards** to motivate competitive exam preparation.
 - Introduce a **feedback system** for quiz questions.
 
-## 💡 Contributing
 
-Feel free to contribute by submitting a pull request! Suggestions for improvements and new feature ideas are welcome.
 
 ---
 
