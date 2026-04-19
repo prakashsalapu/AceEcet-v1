@@ -13,11 +13,11 @@ Welcome to the ECET Exam Preparation Quiz project! 🎓 This project is designed
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/prakashsalapu/EQuizz.git
+    git clone https://github.com/prakashsalapu/AceEcet-v1.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd ecet-quiz-prep
+    cd AceEcet-v1
     ```
 3. Open the `index.html` file in your web browser.
 4. Select your subject and difficulty level.
