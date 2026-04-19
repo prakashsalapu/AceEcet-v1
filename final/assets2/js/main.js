@@ -12,7 +12,7 @@ let current_time=new Date();
 let hour=current_time.getHours() 
 
 
-let wishArray=["Hello there, "," ","Welcome ","to ","Equizz!"] 
+let wishArray=["Hello there, "," ","Welcome ","to ","AceEcet!"] 
 let quotesArray=["Your journey begins here.","Get ready to be inspired.","Let's unlock your potential.","Dream big, achieve more.","Hang tight, the good stuff is coming.","Brewing something amazing..."]
 
 let randomIndex=Math.floor(Math.random()*6);
